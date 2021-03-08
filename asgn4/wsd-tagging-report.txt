@@ -1,0 +1,8 @@
+Number Correct : 108
+Number Total : 126
+Percent : 85.71428571428571
+Confusion matrix:
+Predicted  phone  product
+Actual                   
+phone         59       13
+product        5       49

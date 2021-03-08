@@ -1,0 +1,8 @@
+Number Correct : 140
+Number Total : 232
+Percent : 60.3448275862069
+Confusion matrix:
+Predicted  negative  positive
+Actual                       
+negative         37        35
+positive         57       103
